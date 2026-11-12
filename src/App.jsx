@@ -34,6 +34,14 @@ function App() {
           <a href="#projects" className="hero-button">
             Explore My Work
           </a>
+
+          <a
+            href="/Prince-Asante-CV.pdf"
+            className="hero-button"
+            download
+          >
+            Download My CV
+          </a>
         </div>
 
         <div className="hero-visual">
